@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heavy0331.com/sitemap.xml
