@@ -1,0 +1,32 @@
+li {
+    display: span;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+    transition: background-color 1s;
+}
+
+li:hover {
+
+}
+
+a {
+    padding: 8px;
+    background-color: #EBECE4;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+article {
+    margin: 5px 10px 5px 10px;
+    border: 10px;
+    padding: 15px;
+    width: 60%;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
